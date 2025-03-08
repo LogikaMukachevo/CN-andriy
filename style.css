@@ -1,0 +1,45 @@
+body{
+    background-color:purple;
+    color: white;
+    font-family:cursive;
+    text-align: center;
+}
+header img{
+    height:250px;
+    display:block;
+    margin:0 auto;
+}
+main img{
+    height:120px;
+    display:block;
+    margin:0 auto;
+}
+h1{
+    font-size: 50px
+}
+main a{
+    text-align: center;
+}
+.kirdik{
+    height: 250px;
+}
+html{
+    font-size: 20px;
+}
+.img_style{
+    width: 60%;
+    height: 60%;
+}
+
+a{
+    text-decoration: none;
+    color: yellow;
+}
+
+table{
+    display: flex;
+    justify-content: center;
+}
+tr,td{
+    border: 1px solid white;
+}
